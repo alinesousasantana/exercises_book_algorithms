@@ -9,13 +9,13 @@
 # <h2>Topicos 🗂️</h2>
 
 ____________________________________________________
-    - 1º Capítulo (Pesquisa Binária, Notação Big O) | Em andamento ⏲️
+- 1º Capítulo (Pesquisa Binária, Notação Big O) | Em andamento ⏲️
     - <strong>[Exercicios](colocar link aqui)</strong>
         - [ ] Uma maneira melhor de buscar
         - [ ] Tempo de Execução
           
 __________________________________________________
-    - 2º Capítulo (Ordenação por Seleção) | Em breve ✋🏻
+- 2º Capítulo (Ordenação por Seleção) | Em breve ✋🏻
     - <strong>[Exercícios](colocar link aqui)</strong>
     - [ ] Listas Encadeadas
     - [ ] Arrays
@@ -24,7 +24,7 @@ __________________________________________________
     - [ ] Deleções
      
 __________________________________________________
-    - 3º Recursão | Em breve ✋🏻
+ - 3º Recursão | Em breve ✋🏻
     - <strong>[Exercicios](colocar link aqui)</strong>
     - [ ] Recursão
     - [ ] Caso base e caso recursivo
@@ -32,7 +32,7 @@ __________________________________________________
     - [ ] A pilha de chamada com recursão
     
 _________________________________________________ 
-    - 4º Quicksort | Em breve ✋🏻
+- 4º Quicksort | Em breve ✋🏻
     - <strong>[Exercicios](colocar link aqui)</strong>
     - [ ] Dividir para conquistar
     - [ ] Notação BIG O (revisada)
@@ -52,7 +52,7 @@ _________________________________________________
 
 _________________________________
 
-    - 6º Pesquisa em largura | Em breve ✋🏻
+- 6º Pesquisa em largura | Em breve ✋🏻
     - <strong>[Exercicios](colocar link aqui)</strong>
     - [ ] Introdução a Grafos
     - [ ] O que é um grafo?
@@ -73,7 +73,7 @@ _________________________________
     - [ ] Implementação
     
  ________________________________________
-    - 8º Algoritmos Gulosos | Em breve ✋🏻
+- 8º Algoritmos Gulosos | Em breve ✋🏻
     - <strong>[Exercicios](colocar link aqui)</strong>
     - [ ] O problema do cronograma da sala de aula
     - [ ] O problema da mochila
@@ -83,13 +83,13 @@ _________________________________
       - [ ] Caixeiro-viajante, passo a passo
       - [ ] Como faço para saber se um problema é NP-completo?
  _______________________________________
-    - 9º Programação dinâmica | Em breve ✋🏻
+- 9º Programação dinâmica | Em breve ✋🏻
     - [ ] O problema da mochila
     - [ ] A solução simples
     - [ ] Programação Dinâmica
     - [ ] Maior substring comum
 ________________________________________
-    - 10º K-vizinhos mais próximos | Em breve ✋🏻
+- 10º K-vizinhos mais próximos | Em breve ✋🏻
     - [ ] Classificando laranja versus toranjas
     - [ ] Criando um sistema de recomenda
     - [ ] Programação Dinâmica

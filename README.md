@@ -2,11 +2,11 @@
 
 🇧🇷 Esse repositório tem o intuito de servir como caderno digital, onde eu registro todos os meus estudos do livro : <strong>"Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos"</strong> exercicíos e algumas anotações importantes, fique livre para colocar na linguagem que quiser, objetivo é inspirar outras pessoas.
 
-# Linguagem Usada 🧪
+# <h2>Linguagem Usada 🧪</h2>
 <img align="center" alt="Aline-PHP" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">  
           
 
-# Topicos 🗂️
+# <h2>Topicos 🗂️</h2>
 
 ____________________________________________________
     - 1º Capítulo (Pesquisa Binária, Notação Big O) | Em andamento ⏲️

@@ -3,7 +3,7 @@
 🇧🇷 Esse repositório tem o intuito de servir como caderno digital, onde eu registro todos os meus estudos do livro : <strong>"Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos"</strong> exercicíos e algumas anotações importantes, fique livre para colocar na linguagem que quiser, objetivo é inspirar outras pessoas.
 
 # <h2>Linguagem Usada 🧪</h2>
-<img align="center" alt="Aline-Ruby" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">  
+<img align="center" alt="Aline-Ruby" height="60" width="60" src="https://devicon-website.vercel.app/api/php/original.svg">  
           
           
           
